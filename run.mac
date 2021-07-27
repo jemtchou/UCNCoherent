@@ -1,0 +1,4 @@
+/material/verbose 2
+/process/verbose 2
+/tracking/verbose 2
+/run/beamOn 100
